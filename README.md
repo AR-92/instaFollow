@@ -20,7 +20,6 @@ It is Tag/Link to you Instagram profile.Anyone can use it in their website {guid
 
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/twbs/InstaFollow/archive/v5.0.0.zip)
 - Download InstaFollow From : `./instaFollow.js`
 - Initialise  : `var tag=new instaFollow({username:'_rana.g'});`
 - Call auto() to automate  : `tag.auto();`
