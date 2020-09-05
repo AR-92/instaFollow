@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://v5.getInstaFollow.com/">
-    <img src="https://v5.getInstaFollow.com/docs/5.0/assets/brand/InstaFollow-logo-shadow.png" alt="InstaFollow logo" width="200" height="165">
+  <a>
+    <img src="intafollow.png" alt="InstaFollow logo">
   </a>
 </p>
 
