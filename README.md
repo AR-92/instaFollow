@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="intafollow.png" alt="InstaFollow logo">
+    <img src="instafollow.png" alt="InstaFollow logo">
   </a>
 </p>
 
