@@ -8,7 +8,7 @@
 
 ## InstaFollow
 
-Our default branch is for development of our upcoming InstaFollow release.
+It is Tag/Link to you Instagram profile.Anyone can use it in their website {guide is available below at Quick start}. Just give it your username name it will get all of yours related info , have fun using it :)
 
 ## Table of contents
 
@@ -21,11 +21,10 @@ Our default branch is for development of our upcoming InstaFollow release.
 Several quick start options are available:
 
 - [Download the latest release](https://github.com/twbs/InstaFollow/archive/v5.0.0.zip)
-- Clone the repo: `git clone https://github.com/twbs/InstaFollow.git`
-- Install with [npm](https://www.npmjs.com/): `npm install InstaFollow@next`
-- Install with [yarn](https://yarnpkg.com/): `yarn add InstaFollow@next`
-- Install with [Composer](https://getcomposer.org/): `composer require twbs/InstaFollow:5.0.0`
-- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package InstaFollow` Sass: `Install-Package InstaFollow.sass`
+- Download InstaFollow From : `./instaFollow.js`
+- Initialise  : `var tag=new instaFollow({username:'_rana.g'});`
+- Call auto() to automate  : `tag.auto();`
+
 
 ## Copyright and license
 
